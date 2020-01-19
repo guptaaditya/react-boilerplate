@@ -40,6 +40,6 @@ export function showToast(view, type = '', settings = {}) {
 };
 
 export const onLogin = (props) => {
-    showToast('Welcome to encryptics, the world of safe assets', 'success');
-    props.history.push('/dashboard');
+    showToast('Message', 'success');
+    props.history.push('/next-url');
 }

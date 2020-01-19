@@ -1,7 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import 'views/styles/index.scss';
-import 'views/styles/layouts.scss';
 import App from 'modules/app/app';
 import 'semantic-ui-css/semantic.min.css';
 import 'izitoast/dist/css/iziToast.min.css';
